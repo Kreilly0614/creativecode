@@ -1,4 +1,4 @@
 # OdysseyPoem
 
-While the poem wasn't anything inspiring and noteworthy, it was very interesting to see random words come together to create something you can somewhat make sense of. All in all, it was a bit funny at points due to randomness.
+While the poem wasn't anything inspiring and noteworthy, it was very interesting to see random words come together to create something you can somewhat make sense of. All in all, it was a bit funny at points due to randomness. The most difficult part would be getting it to actually work, which I assumed at first I missed something crucial from missing class the Friday there was a lesson on creating a poem. I quickly learned that I simply needed to implement the two applications in the Github, and everything was manageable after that. However, I do think that randomness takes some of the mystery out of poems. At first, random poems are fun to read, especially if the words are scrambled in ridiculous ways. But when most of the time there is no rhyme or rhythm to any of it, it does all sort to become somewhat bland. It was definitely fun though, and I enjoyed showing people how it was done afterwards.
 
