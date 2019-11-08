@@ -29,6 +29,14 @@ arc(300,300,200,200,1.5*PI,(second()/30*PI-HALF_PI));
 fill(22);
 ellipse(300,300,165,165);
 
+//milliseconds circle
+fill(0);
+ellipse(300,300,100,100);
+fill(90,9,90);
+arc(300,300,100,100,1.5*PI,(millis()/500*PI-HALF_PI));
+fill(30);
+ellipse(300,300,65,65);
+
 //actual time as seen on top left
 text(hour() + " : " + minute() + " : " + second(), 20, 20);
 
